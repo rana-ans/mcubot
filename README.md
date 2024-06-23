@@ -4,7 +4,7 @@ This Repository contains ROS Packages for an Autonomous Mobile Robot.
 
 FYP by the Students of Batch UETT-MCT-2016.
 
-Muhammad Ans Akhtar  
+Muhammad Ans Akhtar [rana-ans](https://github.com/rana-ans/)
 Muhammad Shoaib  
 Muhammad Uzair Sajid  
 Mir Usama ul Haq  
