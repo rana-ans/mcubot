@@ -6,10 +6,10 @@ FYP by the Students of Batch UETT-MCT-2016.
 
 Muhammad Ans Akhtar [rana-ans](https://github.com/rana-ans/)  
 Muhammad Shoaib  
-Muhammad Uzair Sajid  
+Muhammad Uzair Sajid [uzair-sajid](https://github.com/uzair-sajid)  
 Mir Usama ul Haq  
 
-Under Supervision and Guidance of Professor Ahmed Nouman.
+Under Supervision and Guidance of Professor Ahmed Nouman [Ahmed-Nouman](https://github.com/Ahmed-Nouman).
 
 [Department of Mechatronics Engineering](https://web.uettaxila.edu.pk/MCED/index.php/)  
 University of Engineering & Technology, Taxila.
